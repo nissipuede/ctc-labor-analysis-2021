@@ -38,7 +38,7 @@ This repository contains a Jupyter Notebook and accompanying white paper for my 
 All data are derived from the **IPUMS CPS ASEC** microdata, which is publicly accessible. The raw or cleaned data files are not included in this repository due to size and licensing constraints.
 
 🔗 Access CPS ASEC datasets here:  
-https://cps.ipums.org/cps-action/data/download
+https://cps.ipums.org/cps/
 
 ## Methods Summary
 
