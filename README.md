@@ -29,7 +29,7 @@ This repository contains a Jupyter Notebook and accompanying white paper for my 
 
 | File Name                                  | Description                                   |
 |--------------------------------------------|-----------------------------------------------|
-| `PPOL6903 - Final Project_nc809.html`      | Jupyter Notebook (Python 3.9) |
+| `PPOL6903 - Final Project_nc809.ipynb`      | Jupyter Notebook (Python 3.9) |
 | `PPOL6803 - Final Project - White Paper.pdf` | Policy paper summarizing the methods and findings |
 | *(No data files included)*                 | Source data omitted due to licensing/size     |
 
